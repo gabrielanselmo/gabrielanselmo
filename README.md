@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/878424075968610374.png" />
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/github/followers/gabrielanselmo?label=Follow&style=social" alt="github followers" /><br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=gabrielanselmo&show_icons=true&custom_title=gabrielanselmo%20Github%20Stats&theme=midnight-purple" alt="Lennart Statistics." />
